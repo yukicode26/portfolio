@@ -6,7 +6,7 @@ A modern, minimal portfolio website built with React and Tailwind CSS.
 <img src="./public/images/portfolioHome.png" width="600" alt="Portfolio homepage">
 
 ## Live Site
-https://your-site-url.com
+https://yukicode26.pages.dev
 
 ## Overview
 This project is a personal portfolio designed to showcase my front-end development skills.
