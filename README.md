@@ -57,5 +57,5 @@ This portfolio follows a minimal and editorial design style.
 - Balancing UI and UX
 
 ## Contact
-Email: yukicode26@gmail.com
+Email: yukicode26@gmail.com  
 GitHub: https://github.com/yukicode26
