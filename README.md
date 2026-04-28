@@ -3,9 +3,7 @@
 A modern, minimal portfolio website built with React and Tailwind CSS.
 
 ## Screenshot
-<p align="center">
-  <img src="./public/images/portfolioHome.png" width="600" alt="Portfolio homepage">
-</p>
+<img src="./public/images/portfolioHome.png" width="600" alt="Portfolio homepage">
 
 ## Live Site
 https://your-site-url.com
